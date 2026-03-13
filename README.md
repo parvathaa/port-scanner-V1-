@@ -1,4 +1,4 @@
-# Port Scanner [V1]
+# Port Scanner (V1-V4)
 
 A simple TCP port scanner built from scratch using Python's standard library. No third-party packages required.
 
